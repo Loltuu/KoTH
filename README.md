@@ -1,2 +1,3 @@
 # KoTH
-Becoming king of the hill
+
+Repositório ainda sendo criado...
